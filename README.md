@@ -11,6 +11,7 @@
 
 Звіт з виконання лабораторної роботи #1:
 https://docs.google.com/document/d/1GSiKpBoPiEIsgdqcec41YIkyv-UCIkyH/edit?usp=sharing&rtpof=true&sd=true
+
 Звіт з виконання лабораторної роботи #2:
 https://docs.google.com/document/d/189mawDEuS7aW1WF1SPs8w8YPqN7pgVqp/edit?usp=sharing&ouid=105875062484603109160&rtpof=true&sd=true
 
